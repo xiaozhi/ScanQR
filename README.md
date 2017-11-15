@@ -1,1 +1,3 @@
 # ScanQR
+
+##Use
